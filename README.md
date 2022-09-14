@@ -1,2 +1,1 @@
-# VIDTC
-VIDT NFT Claim
+# VIDTC NFT Claim
